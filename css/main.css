@@ -111,3 +111,16 @@ footer {
     }
     
 }
+
+/* DOM Play Highlighting */
+#play span.actor {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+#play p {
+    margin: 1em 0;
+}
